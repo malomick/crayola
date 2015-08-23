@@ -25,16 +25,16 @@ bower install crayola
   meteor add mickm:crayola
   ```
 
-2.  Import the color library partial into your Sass file:
-  ```Sass
-  @import 'crayola';
-  ```
-
-3.  If Meteor throws an error, try adding ```scss.json``` to your root directory:
+2.  Add ```scss.json``` to your root directory:
   ```JSON
   {
     "includePaths": [
       ".meteor/local/build/programs/server/assets/packages/mickm_crayola"
     ]
   }
+  ```
+
+3.  Import the color library partial into your Sass file:
+  ```Sass
+  @import 'crayola';
   ```
