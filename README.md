@@ -1,9 +1,7 @@
 # crayola
 Crayola color library for Sass
 
-A color library built from the list of Crayola standard crayon colors on Wikipedia:
-
-https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Standard_colors
+A color library built from the list of Crayola standard crayon colors on [Wikipedia](https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Standard_colors).
 
 The easiest way to include this in your project is to import it into your existing Sass as a partial:
 
@@ -11,14 +9,18 @@ The easiest way to include this in your project is to import it into your existi
 @import 'crayola';
 ```
 
-Also available on Bower:
+## Install
+
+### Bower
 
 ```Shell
 bower install crayola
 ```
 
-and Meteor:
+### Meteor
 
 ```Shell
 meteor add mickm:crayola
 ```
+
+**WARNING: Meteor package is currently broken. Expect a fix soon.**
