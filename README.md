@@ -8,11 +8,15 @@ https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Standard_colors
 The easiest way to include this in your project is to import it into your existing Sass as a partial:
 
 ```Sass
-  @import 'crayola';
+@import 'crayola';
 ```
 
 Also available on Bower via:
 
 ```Shell
-  bower install crayola
+bower install crayola
+```
+
+```Shell
+meteor add mickm:crayola
 ```
