@@ -11,11 +11,13 @@ The easiest way to include this in your project is to import it into your existi
 @import 'crayola';
 ```
 
-Also available on Bower via:
+Also available on Bower:
 
 ```Shell
 bower install crayola
 ```
+
+and Meteor:
 
 ```Shell
 meteor add mickm:crayola
