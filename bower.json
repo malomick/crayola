@@ -1,0 +1,26 @@
+{
+  "name": "crayola",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mickmalowany/crayola",
+  "authors": [
+    "mickmalowany <mick.malowany@gmail.com>"
+  ],
+  "description": "A Crayola color library for Sass",
+  "main": "_crayola.scss",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "Sass",
+    "color",
+    "library"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
