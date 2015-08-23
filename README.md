@@ -13,9 +13,16 @@ The easiest way to include this in your project is to import it into your existi
 
 ### Bower
 
-```Shell
-bower install crayola
-```
+1.  Install the Bower package from the command line:
+  ```Shell
+  bower install crayola
+  ```
+
+2.  Import the color library partial into your Sass file:
+  ```Sass
+  @import 'bower_components/crayola/crayola';
+  ```
+
 
 
 ### Meteor
