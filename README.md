@@ -20,6 +20,8 @@ All of the variable names were derived from the names in the Wikipedia list usin
 
 Now throw a dollar sign up front, and you're off to the races.
 
+For example, Robin's Egg Blue becomes ```$robins-egg-blue```, and Violet (II) becomes ```$violet-2```.
+
 
 ## Install
 
