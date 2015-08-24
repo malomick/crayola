@@ -9,6 +9,16 @@ The easiest way to include this in your project is to import it into your existi
 @import 'crayola';
 ```
 
+### Naming convention
+
+All of the variable names were derived from the names in the Wikipedia list using a Regex find and replace.  Feel free to browse the source for the variable names, or find the color you want on the Wikipedia list and use the following formula:
+
+1.  Delete all apostrophes;
+2.  Convert all roman numerals to numbers (for example, (iii) becomes 3);
+3.  Replace all spaces with dashes;
+4.  Make everything lowercase and throw a dollar sign up front, and you're off to the races.
+
+
 ## Install
 
 ### Bower
