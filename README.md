@@ -32,7 +32,7 @@ Now throw a dollar sign up front, and you're off to the races.
 
 2.  Import the color library partial into your Sass file:
   ```Sass
-  @import 'bower_components/crayola/crayola';
+  @import '/bower_components/crayola/crayola';
   ```
 
 
